@@ -1,0 +1,2 @@
+Sitemap: https://solar-bau-katowice.eu/sitemap.xml
+User-agent: *
